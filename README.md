@@ -8,4 +8,11 @@ ICP-1:
 2) In second program, I read data from input file and then made individual word count from that file and transformed whole data along with word count to the new output file.
 3) In last program, collected a list of heights in inches from user and converted them into centimeters using a nested loop method and list comprehension.
 
+ICP-2:
+1) In the first program, created a class with data member to count number of employees, a list to store salaries and an instructor which takes name, family, salary and department and calculates the average salary.
+Another class is created, and it inherits all the properties from the previous class.
+Two instances are created for first and second classes respectively and the output is validated.
+2)	In the second program , imported numpy library and created an array with given specifications and then reshaped the array to 4*5 size and replaced the maximum value in each row with 0.
+
+
 
