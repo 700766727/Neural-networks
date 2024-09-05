@@ -15,4 +15,10 @@ Two instances are created for first and second classes respectively and the outp
 2)	In the second program , imported numpy library and created an array with given specifications and then reshaped the array to 4*5 size and replaced the maximum value in each row with 0.
 
 
+ICP-3:
+1)	In the first program, loaded the dataset and did basic mathematical functions using describe function and then examined for null values and replaced those with mean values. Then, selected two columns and did some mathematical functions and filtered the data as per requirements and created a new data frame using the existing data frame and plotted a scatter plot for visualization.
+2)	In the Second program, loaded the dataset and did basic mathematical functions using the describe function and then divided data into two parts for training and testing. Then created a machine learning model and used the data for training and testing. Finally calculated mean square error and plotted graph. 
+
+
+
 
