@@ -19,6 +19,13 @@ ICP-3:
 1)	In the first program, loaded the dataset and did basic mathematical functions using describe function and then examined for null values and replaced those with mean values. Then, selected two columns and did some mathematical functions and filtered the data as per requirements and created a new data frame using the existing data frame and plotted a scatter plot for visualization.
 2)	In the Second program, loaded the dataset and did basic mathematical functions using the describe function and then divided data into two parts for training and testing. Then created a machine learning model and used the data for training and testing. Finally calculated mean square error and plotted graph. 
 
+ICP-4:
+Custom Dataset Binary Classification: This part loads a custom dataset, creates a neural network with hidden layers, trains it, and evaluates its performance.
+Breast Cancer Binary Classification: This section does the same as the first part but uses the Breast Cancer dataset instead.
+MNIST Handwritten Digit Recognition (Training): This part loads the MNIST dataset, builds a neural network model with dropout layers to prevent overfitting, trains the model, and plots training and validation metrics.
+MNIST Handwritten Digit Recognition (Inference): This section loads a pre-trained model, displays an image, and predicts the digit in that image.
+Experimenting with Different Model Configurations (MNIST): Here, four different neural network models with various configurations are defined, trained, and evaluated. Training and validation performance is visualized.
+In summary, this code demonstrates building and training neural network models on custom datasets, the Breast Cancer dataset, and the MNIST dataset. It explores different model configurations and showcases how to use a trained model for inference
 
 
 
