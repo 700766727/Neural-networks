@@ -27,5 +27,11 @@ MNIST Handwritten Digit Recognition (Inference): This section loads a pre-traine
 Experimenting with Different Model Configurations (MNIST): Here, four different neural network models with various configurations are defined, trained, and evaluated. Training and validation performance is visualized.
 In summary, this code demonstrates building and training neural network models on custom datasets, the Breast Cancer dataset, and the MNIST dataset. It explores different model configurations and showcases how to use a trained model for inference
 
+ICP-6:
+1. Add one more hidden layer to autoencoder
+2. Do the prediction on the test data and then visualize one of the reconstructed version of that test data.
+Also, visualize the same test data before reconstruction using Matplotlib
+3. Repeat the question 2 on the denoisening autoencoder
+4. plot loss and accuracy using the history object
 
 
